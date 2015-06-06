@@ -3,13 +3,13 @@
 
 ### Description ###
 
-This a simple (raw) project offer a complete framework<br/>
-to manage Exceptions in a performant way<br/> 
+This is a simple (raw) project that offer a complete framework<br/>
+to manage Exceptions looking at performance<br/> 
 <br/>
 <br/>
 We normally do not put a lot of care in the management of exceptions.<br/>
-This tiny framework offer different approaches to manage exception<br/>
-in a better way, looking at performance<br/>
+This tiny framework offer different approaches to manage exceptions<br/>
+in a better way<br/>
 <br/>
 <br/>
 So, we have:<br/>
@@ -51,6 +51,6 @@ Ability to cache an expensive Exception<br/>
 <br/>
 <br/>
 So, now...Try to not only chain exceptions!<br/>
-Take care of your exceptions and plkay safely ;-P<br/>
+Take care of your exceptions and play safely ;-P<br/>
 <br/>
 <br/>
